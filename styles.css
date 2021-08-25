@@ -1,0 +1,40 @@
+
+body {
+  background-color: #FFEDDA
+}
+
+h1 {
+  color: #FFB830;
+}
+h3 {
+    color: #FFB830;
+}
+hr {
+  background-color: white;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+img {
+  height: 150px;
+}
+
+.circular {
+  border-radius: 100%;
+}
+/*
+index
+<img class="bacon" fghgj;.....   class for differentiating
+<img class="broccoli" dfdgfhgj.....
+*/
+
+/* CLASS SELECTORS
+.bacon {
+background-color: green;
+}
+.broccoli {
+background-color: red;
+}
+*/
